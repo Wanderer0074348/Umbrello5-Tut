@@ -15,7 +15,8 @@
    ![image](https://github.com/user-attachments/assets/5456a713-883e-462a-b957-a877488fea7d)
 
 4. Save and then go to sessions<br>
-![image](https://github.com/user-attachments/assets/43adf081-75ae-48c6-8878-2fd54451f86f)
+![image](https://github.com/user-attachments/assets/21ddd548-fad3-48d6-8fd9-7e4ac17769d0)
+
 5. Select user sessions from the drop down and then go to ssh, and put the SSH SERVER and your id number as the values, put your password and login<br>
 ![image](https://github.com/user-attachments/assets/e2d660dd-c359-40eb-a541-69b7dcc28b75)
 
