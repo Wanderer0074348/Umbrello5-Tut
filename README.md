@@ -1,12 +1,30 @@
 ## Umbrello5 Entity Relationship Diagram
 1. Umbrello UML Modeller is a UML diagram tool that can support you in the software development process
+### Connect to your session using MobaXterm
+1. Open MobaXterm
+2. Go to Tunneling on the taskbar and click on new session<br>
+![image](https://github.com/user-attachments/assets/9d6be6dd-9c6e-401a-bffa-c133fe3d2ce3)
+
+3. Enter the following details
+   1. Forwarded Port: 22
+   2. SSH Server: 172.16.22.64
+   3. SSH ID: YOUR BITS ID
+   4. SSH PORT: 22
+   5. REMOTE SERVER: 172.16.22.64
+   6. REMOTE PORT: 22<br>
+   ![image](https://github.com/user-attachments/assets/5456a713-883e-462a-b957-a877488fea7d)
+
+4. Save and then go to sessions<br>
+![image](https://github.com/user-attachments/assets/43adf081-75ae-48c6-8878-2fd54451f86f)
+5. Select user sessions from the drop down and then go to ssh, and put the SSH SERVER and your id number as the values, put your password and login<br>
+![image](https://github.com/user-attachments/assets/e2d660dd-c359-40eb-a541-69b7dcc28b75)
 
 ### Set-up Project
 Launch Umbrello5 from MobaXterm session by using the following command
 ```bash
 umbrello5
 ```
-1. Select Entity Relationship Model from the side panel by double clicking on it
+1. Select Entity Relationship Model from the side panel by double clicking on it<br>
 ![image](https://github.com/user-attachments/assets/72247ee5-020f-4a47-aa40-63cace88afe1)
 
 2. Set a name, in this case `car insurance company`<br>
