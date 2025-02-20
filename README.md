@@ -15,7 +15,8 @@
    ![image](https://github.com/user-attachments/assets/5456a713-883e-462a-b957-a877488fea7d)
 
 4. Save and then go to sessions<br>
-![image](https://github.com/user-attachments/assets/21ddd548-fad3-48d6-8fd9-7e4ac17769d0)
+![Screenshot_20250220_142455_Brave](https://github.com/user-attachments/assets/ad9e39a6-8699-47c2-a4bc-26cfa7a61970)
+
 
 5. Select user sessions from the drop down and then go to ssh, and put the SSH SERVER and your id number as the values, put your password and login<br>
 ![image](https://github.com/user-attachments/assets/e2d660dd-c359-40eb-a541-69b7dcc28b75)
@@ -72,5 +73,24 @@ umbrello5
 4. Add the names to the relationships and assign the correct multipliers to the rest of the relationships between entities<br>
 ![image](https://github.com/user-attachments/assets/3b6be01c-6e1c-4c4b-a4cb-1a0be75dc452)
 
-### Save and Exit
-1. Save the Code by using `ctrl+s` and close the window
+### Additional Screenshots for Reference:
+## 1. Save as png
+- Go to Diagram
+- Select the option to Export as picture
+![Creating associations](save-image.png)
+
+
+### Tips and Best Practices:
+- Keep your diagram clean and organized
+- Use clear, descriptive names for actors and use cases
+- Ensure relationships make logical sense
+- Save your work frequently
+- Use the alignment tools to maintain neat appearance
+
+## Keyboard Shortcuts
+- Ctrl+S: Save
+- Ctrl+Z: Undo
+- Ctrl+Y: Redo
+- Delete: Remove selected element
+
+Remember to regularly save your work and maintain a clear, organized layout for your diagrams. Use case diagrams should be easy to understand and effectively communicate the system's functionality to stakeholders.
