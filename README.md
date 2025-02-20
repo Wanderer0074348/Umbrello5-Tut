@@ -12,7 +12,8 @@
    4. SSH PORT: 22
    5. REMOTE SERVER: 172.16.22.64
    6. REMOTE PORT: 22<br>
-   ![image](https://github.com/user-attachments/assets/5456a713-883e-462a-b957-a877488fea7d)
+   ![Screenshot_20250220_143029_Brave](https://github.com/user-attachments/assets/0ed5813a-6471-41e1-9bc9-9ffa068f65ea)
+
 
 4. Save and then go to sessions<br>
 ![Screenshot_20250220_142455_Brave](https://github.com/user-attachments/assets/ad9e39a6-8699-47c2-a4bc-26cfa7a61970)
