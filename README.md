@@ -78,7 +78,8 @@ umbrello5
 ## 1. Save as png
 - Go to Diagram
 - Select the option to Export as picture
-![Creating associations](save-image.png)
+![17400475335256487147009071336320](https://github.com/user-attachments/assets/749d4c8c-404f-4ed3-ae3b-df7c6f46cd8e)
+
 
 
 ### Tips and Best Practices:
